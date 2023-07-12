@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>dict/hmm_model.utf8</file>
+        <file>dict/idf.utf8</file>
+        <file>dict/jieba.dict.utf8</file>
+        <file>dict/stop_words.utf8</file>
+        <file>dict/user.dict.utf8</file>
+    </qresource>
+</RCC>

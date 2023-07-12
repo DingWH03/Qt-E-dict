@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/dict">
+        <file>hmm_model.utf8</file>
+        <file>idf.utf8</file>
+        <file>jieba.dict.utf8</file>
+        <file>stop_words.utf8</file>
+        <file>user.dict.utf8</file>
+    </qresource>
+</RCC>
